@@ -20,10 +20,10 @@ This project recommends books using content-based filtering with TF-IDF Vectoriz
 ## Project Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![home](screenshots/home.png)
 
 ### Recommendation Output
-![Recommendation Output](screenshots/recommendation_system.png)
+![recommendation System](screenshots/recommendation_system.png)
 
 ### Dashboard
-![Dashboard](screenshots/Analysis.png)
+![Analysis](screenshots/Analysis.png)
